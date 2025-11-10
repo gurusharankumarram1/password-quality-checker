@@ -1,6 +1,6 @@
 {
   "name": "password-quality-checker",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A lightweight utility to check password strength, entropy, and quality with detailed feedback.",
   "main": "index.js",
   "type": "commonjs",
