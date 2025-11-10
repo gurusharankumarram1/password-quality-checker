@@ -1,9 +1,7 @@
 # password-quality-checker
 
 [![npm version](https://img.shields.io/npm/v/password-quality-checker.svg)](https://www.npmjs.com/package/password-quality-checker)
-[![total npm downloads](https://img.shields.io/npm/dt/password-quality-checker.svg)](https://www.npmjs.com/package/password-quality-checker)
-[![license](https://img.shields.io/npm/l/password-quality-checker.svg)](https://github.com/gurusharankumarram1/password-quality-checker/blob/main/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/gurusharankumarram1/password-quality-checker.svg?style=social)](https://github.com/gurusharankumarram1/password-quality-checker)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/gurusharankumarram1/password-quality-checker/blob/main/LICENSE)
 [![Node.js](https://img.shields.io/badge/node-%3E%3D14.0-brightgreen)](https://nodejs.org/)
 
 ---
