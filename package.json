@@ -1,0 +1,28 @@
+{
+  "name": "password-quality-checker",
+  "version": "1.0.0",
+  "description": "A lightweight utility to check password strength, entropy, and quality with detailed feedback.",
+  "main": "index.js",
+  "type": "commonjs",
+  "keywords": [
+    "password",
+    "password-checker",
+    "password-strength",
+    "security",
+    "entropy",
+    "validation"
+  ],
+  "author": "Guru Sharan Kumar Ram",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gurusharankumarram1/password-quality-checker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gurusharankumarram1/password-quality-checker/issues"
+  },
+  "homepage": "https://github.com/gurusharankumarram1/password-quality-checker#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
